@@ -13,5 +13,5 @@ Ver la documentación de Altair en http://altair-viz.github.io/
 
 Si tenés una cuenta de Google/Gmail, podés ejecutar este tutorial desde el navegador usando Colab: [Abrir en Colab](https://colab.research.google.com/github/altair-viz/altair-tutorial/blob/master/notebooks/Index.ipynb).
 
-También podés ejecutarlo en Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akielbowicz/altair-tutorial.git/master)
+También podés ejecutarlo en Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akielbowicz/altair-tutorial.git/en_español)
 (Acordate de configurar el **notebook** renderer)
